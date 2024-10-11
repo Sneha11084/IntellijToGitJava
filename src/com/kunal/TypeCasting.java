@@ -23,4 +23,3 @@ public class TypeCasting {
         System.out.println(a); // 65
     }
 }
-//
